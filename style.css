@@ -1,0 +1,37 @@
+div {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: 3px solid green;
+    background-color: azure;
+}
+ol {
+    list-style-type:lower-roman
+}
+
+li {
+     color: red;
+}
+h1 {
+    font-size: x-large;
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+}
+caption {
+    border: 3px solid blue;
+    font-size: xx-large;
+    color: forestgreen;
+    background-color: aliceblue;
+
+}
+
+table {
+    border: 3px solid blue;
+    background-color: aliceblue;
+}
+
+td {
+    border: 1px solid black;
+    color: blue;
+    font-size: large;
+}
